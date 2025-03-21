@@ -1,0 +1,17 @@
+names:
+- Kuppameniya
+- Udupiyaliya
+- Typhonium
+- Normal Grass
+- Grass Long
+- Barren area
+- Biden(Wild)
+- Grass small round
+- Gotukola
+- wild crop(unknown1)
+- wild crop(unknown 2)
+
+nc: 11
+
+train: C:\Users\ishar\Documents\AASA IT\PROJECTS\AASA_Garden_detection\Garden_Detection\dataset_garden\images\train
+val: C:\Users\ishar\Documents\AASA IT\PROJECTS\AASA_Garden_detection\Garden_Detection\dataset_garden\images\val

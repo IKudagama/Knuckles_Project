@@ -7,3 +7,20 @@
 
 
 testings
+
+/pramuka/FastRCNN1.5/__pycache__
+/pramuka/FastRCNN1.5/AasaITGArden
+/pramuka/FastRCNN1.5/Garden.v2i.coco
+/pramuka/FastRCNN1.5/output_images
+/pramuka/FastRCNN1.5/video
+/pramuka/FastRCNN1.5/faster_rcnn_tree_detector.pth
+/pramuka/FastRCNN1.5/20250609_155155.mp4
+*.mp4
+
+
+/pramuka/FastRCNN1.6/__pycache__
+/pramuka/FastRCNN1.6/Tree
+/pramuka/FastRCNN1.6/faster_rcnn_tree_detector.pth
+
+/pramuka/FastRCNN1.7/__pycache__
+/pramuka/FastRCNN1.7/Tree

@@ -23,4 +23,11 @@ testings
 /pramuka/FastRCNN1.6/faster_rcnn_tree_detector.pth
 
 /pramuka/FastRCNN1.7/__pycache__
-/pramuka/FastRCNN1.7/Tree
+/pramuka/FastRCNN1.7/Trees
+
+/pramuka/FastRCNN1.8
+
+/pramuka/FastRCNN1.9/Trees
+/pramuka/FastRCNN1.9/test
+/pramuka/FastRCNN1.9/test2
+/pramuka/FastRCNN1.9/faster_rcnn_tree_detector.pth
